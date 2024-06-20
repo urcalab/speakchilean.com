@@ -4,8 +4,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.metadata.myvariable }}.
 
-title: Urca Lab
-tagline: Infraestructura para tu negocio
+title: Speak Chilean 🇨🇱
+tagline: Your personal tutor for Chilean Spanish
 email: contacto@urcalab.com
 description: >-
-  Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  If you want to learn spanish with a Chilean accent, this is the place for you.
